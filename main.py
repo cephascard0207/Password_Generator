@@ -57,5 +57,3 @@ elif user_choice == 5:
 elif user_choice == 6:
   print(password6)
 
-
-
